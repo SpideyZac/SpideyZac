@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpideyZac
 - 👀 I’m interested in AI, coding, videogames
-- 🌱 I’m currently learning DQN in RL
+- 🌱 I’m currently learning NEAT neural network
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Discord: SpideyZac#8044 Email: zaclesser@outlook.com
 
